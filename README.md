@@ -1,9 +1,9 @@
 [![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/)
 
 <p align='center'>
-  <a href="https://anthony-sgro.com"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838855-a05abc4a-029e-4eda-a96c-7a31304e2933.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/YaBoySgro"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838011-1f4e8130-3e10-4f3f-8f41-19425ad09134.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sgro/"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838172-3d2de30c-13eb-475a-ab91-9e8e5e5d5c48.png"></a>
+  <a href="https://anthony-sgro.com" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838855-a05abc4a-029e-4eda-a96c-7a31304e2933.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/YaBoySgro" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838011-1f4e8130-3e10-4f3f-8f41-19425ad09134.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sgro/" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838172-3d2de30c-13eb-475a-ab91-9e8e5e5d5c48.png"></a>
 </p>
 
 <!-- Hey there 👋, -->
