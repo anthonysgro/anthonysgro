@@ -1,7 +1,5 @@
 ### Hi there 👋
-<!-- <img width="1440" alt="Screen Shot 2021-07-23 at 4 15 13 PM" src=""> -->
-
-[![Header](https://user-images.githubusercontent.com/64649626/126836867-4ad110fd-a979-48b6-8b27-3e15239e2c55.png "Header")](https://some-url.dev/)
+[![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/)
 
 <!--
 **anthonysgro/anthonysgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
