@@ -6,7 +6,14 @@
   <a href="https://www.linkedin.com/in/sgro/"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838172-3d2de30c-13eb-475a-ab91-9e8e5e5d5c48.png"></a>
 </p>
 
-Hey there 👋,
+<!-- Hey there 👋, -->
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Anthony.
+</p>
+<p align='center'>For enquiries, reach out @ anthonysgro1995@gmail.com or over on <a href="https://twitter.com/YaBoySgro">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 
 <!--
