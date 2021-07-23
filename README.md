@@ -13,9 +13,6 @@ I'm Anthony.
 </p>
 <p align='center'>For enquiries, reach out @ anthonysgro1995@gmail.com or over on <a href="https://twitter.com/YaBoySgro">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
-
-
 <!--
 **anthonysgro/anthonysgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
