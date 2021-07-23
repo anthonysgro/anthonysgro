@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/)
 
 <!--
