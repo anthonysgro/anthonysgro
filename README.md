@@ -1,5 +1,14 @@
 [![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/)
 
+<p align='center'>
+  <a href="https://anthony-sgro.com"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838667-87a6ce18-886e-4cee-b0db-03241082fb78.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/YaBoySgro"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838011-1f4e8130-3e10-4f3f-8f41-19425ad09134.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838172-3d2de30c-13eb-475a-ab91-9e8e5e5d5c48.png"></a>
+</p>
+
+Hey there 👋,
+
+
 <!--
 **anthonysgro/anthonysgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
