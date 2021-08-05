@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/)
+<!-- [![Header](https://user-images.githubusercontent.com/64649626/126836994-24bff721-b63a-4cf5-8397-ca46c0663def.png "Header")](https://anthony-sgro.com/) -->
 
 <p align='center'>
   <a href="https://anthony-sgro.com" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/64649626/126838855-a05abc4a-029e-4eda-a96c-7a31304e2933.png"></a>&nbsp;&nbsp;
