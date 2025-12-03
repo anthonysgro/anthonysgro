@@ -11,7 +11,7 @@
 <p align='center'>
 I'm Anthony.
 </p>
-<p align='center'>For questions, reach out @ anthony.m.sgro@gmail.com or over on <a href="https://twitter.com/YaBoySgro">Twitter</a>.</p>
+<p align='center'>For questions, reach out @ anthony.m.sgro@gmail.com</p>
 
 <!--
 **anthonysgro/anthonysgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
